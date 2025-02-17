@@ -26,8 +26,8 @@ Os dados são emitidos diretos no terminal e também são salvos na pasta files,
 Primeiro, faça o clone deste repositório em sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/JadisDev/muper.git
+cd muper
 ```
 
 ### Passo 2:
